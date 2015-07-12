@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "StreamHub-iOS-SDK"
+  s.name         = "StreamHub-iOS-SDK-v3.1"
   s.version      = "0.3.9"
   s.summary      = "A client library for Livefyre's API"
   s.description  = <<-DESC
